@@ -1,3 +1,4 @@
+# 7.1
 class Room:
     def __init__(self, name, label, description, actions):
         self.name = name  # имя комнаты
