@@ -2,7 +2,7 @@ class Room:
     def __init__(self, name, label, description, actions):
         self.name = name  # имя комнаты
         self.label = label  # метка для перехода в эту комнату
-        self.description = description  # Описание комнаты
+        self.description = description  # описание комнаты
         self.actions = actions  # действия
 
 
